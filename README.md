@@ -87,4 +87,4 @@ Python · pandas · NumPy · Matplotlib · seaborn · scikit-learn · statsmodel
 
 ## Autor
 
-Jhon Edwin Olivera Duarte — Ingeniería de Sistemas, Universidad de Ibagué
+Jhon Edwin Olivera Duarte, Sebastian Rodriguez Martinez, Juan Andres Bejarano Garzón — Ingeniería de Sistemas, Universidad de Ibagué
